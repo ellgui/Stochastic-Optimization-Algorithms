@@ -1,0 +1,2 @@
+# Stochastic-Optimization-Algorithms
+The aim of the course is for the students to attain basic knowledge of new methods in computer science inspired by evolutionary processes in nature, such as genetic algorithms, genetic programming, and artificial life. These are both relevant to technical applications, for example in optimization and design of autonomous systems, and for understanding biological systems, e.g., through simulation of evolutionary processes.
